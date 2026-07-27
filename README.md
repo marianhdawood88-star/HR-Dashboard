@@ -5,6 +5,10 @@ This Power BI report (`Atlas_Labs.pbix`) is an HR analytics dashboard built for 
 
 ## Report Pages
 
+### DASH BOARD
+[Uploading Atlas Labs new.pdf…]()
+
+
 ### 1. Overview
 - KPI cards summarizing overall workforce numbers
 - **Employee Hiring Trend** column chart showing hires over time
