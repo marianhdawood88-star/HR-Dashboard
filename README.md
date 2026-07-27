@@ -5,8 +5,12 @@ This Power BI report (`Atlas_Labs.pbix`) is an HR analytics dashboard built for 
 
 ## Report Pages
 
-### DASHBOARD
-[Uploading Atlas Labs new.pdf…]
+### 0. DASHBOARD
+
+<img width="1276" height="726" alt="image" src="https://github.com/user-attachments/assets/09059cc6-1319-462d-85a8-e8220bc35702" />
+<img width="1273" height="720" alt="image" src="https://github.com/user-attachments/assets/39dc3256-970f-4c5f-acbf-3c5e51408ee2" />
+<img width="1266" height="721" alt="image" src="https://github.com/user-attachments/assets/85d71860-ddba-41bf-9405-45c7f602f6c4" />
+<img width="1276" height="728" alt="image" src="https://github.com/user-attachments/assets/9cf36b46-807a-45f1-a79b-5ef2a840f09d" />
 
 
 ### 1. Overview
